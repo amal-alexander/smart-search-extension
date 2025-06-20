@@ -16,6 +16,8 @@ No scraping. No clutter. Just smart AI context based on your search intent. 🤖
 > _Perfect for researchers, marketers, SEOs, or curious minds who always want more than just a search page._
 
 ---
+## Screenshot
+![image](https://github.com/user-attachments/assets/5684923b-000f-43a8-bd79-0542bb5a14d6)
 
 ## ⚙️ Tech Stack
 
